@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+.forecast {
+    font-size: large;
+}
+
+li:hover {
+    background-color: greenyellow;
+    text-decoration: underline;
+    color: black;
+}
