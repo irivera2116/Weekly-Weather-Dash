@@ -21,3 +21,8 @@ li:hover {
     text-decoration: underline;
     color: black;
 }
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
